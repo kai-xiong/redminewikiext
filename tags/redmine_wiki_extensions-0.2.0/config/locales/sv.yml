@@ -1,0 +1,13 @@
+# Swedish strings go
+sv:
+  label_wikiextensions_tags: Taggar
+  label_wikiextensions_new: Ny
+  wiki_extensions: Wiki Extensions
+  label_wikiextensions_tab: Tabb
+  wiki_extensions_add_tab: "Lägg till tabbar till projektmenyn."
+  permission_add_wiki_comment: Add Wiki comments
+  permission_delete_wiki_comments: Delete Wiki comments
+  permission_edit_wiki_comments: Edit Wiki comments
+  permission_wiki_extensions_settings: Manage Wiki Extensions
+
+  field_auto_preview_enabled: Enable auto preview
